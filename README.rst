@@ -28,3 +28,9 @@ But the fact that these programs are public domain, that doesn't give you the
 right to cheat, i.e. taking them verbatim to present them in your class or job
 interviews as your own work. Please, do take the time and effort to learn
 algorithms and write your own programs for class or job interviews.
+
+References
+----------
+
+* The Best of the 20th Century: Editors Name Top 10 Algorithms.
+  http://www.uta.edu/faculty/rcli/TopTen/topten.pdf
